@@ -59,7 +59,7 @@
 		"yaml": "^2.8.2"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "^2.3.8",
+		"@biomejs/biome": "^2.3.9",
 		"@github/local-action": "^6.0.2",
 		"@jest/globals": "^30.2.0",
 		"@rollup/plugin-commonjs": "^29.0.0",
@@ -68,10 +68,10 @@
 		"@types/jest": "^30.0.0",
 		"@types/js-yaml": "^4.0.9",
 		"@types/lodash": "^4.17.21",
-		"@types/node": "^22.19.1",
+		"@types/node": "^22.19.3",
 		"jest": "^30.2.0",
 		"joi-to-typescript": "^4.15.0",
-		"rollup": "^4.53.3",
+		"rollup": "^4.53.4",
 		"ts-jest": "^29.4.6",
 		"ts-jest-resolver": "^2.0.1",
 		"ts-node": "^10.9.2",
